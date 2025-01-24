@@ -1,4 +1,4 @@
-<div>
+<div align=center>
   <h1 align=center>----------Welcome to my page----------</h1>
 <h6>im not a sweden btw</h6>
 <h3 align=center>in programming i almost 1 year</h3>
